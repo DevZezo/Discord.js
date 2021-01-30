@@ -1,7 +1,7 @@
 #Discord.js 
 
 <p>
-<a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png downloads=true&stars=true"></a>
+<a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png"></a>
 
 </p>
 
@@ -18,6 +18,5 @@ client.on("ready", async () => {
 client.login("Your secret token");
 ```
 
-## By:
-<br>
+
 <h1>By: ᵈᵉᵛZezo#2881</h1>
