@@ -1,4 +1,4 @@
-#Discord.js 
+##Discord.js 
 
 <p>
 <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png"></a>
